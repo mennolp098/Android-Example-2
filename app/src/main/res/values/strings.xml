@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android-Example-2</string>
+    <string name="btn_add_reminder">Add Reminder</string>
+    <string name="et_reminder">Give a reminder</string>
+</resources>
